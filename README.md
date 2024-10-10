@@ -1,4 +1,4 @@
-## Hi there 👋
+Welcome to my profile! I'm Csaba A. Tátrai from Hungary! 👋
 
 ## Languages and Tools:
 
