@@ -1,11 +1,5 @@
 ## Hi there 👋
 
-<!--
-**csabatatrai/csabatatrai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-📫 How to reach me: tatraicsababprof@gmail.com
-
-
 ## Languages and Tools:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -21,5 +15,3 @@
 ## Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/csabatatrai/)
-
--->
