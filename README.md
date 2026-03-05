@@ -23,4 +23,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/csabatatrai-datascientist/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=csabatatrai&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=csabatatrai&theme=radical&column=7&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
