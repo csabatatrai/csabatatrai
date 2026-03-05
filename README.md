@@ -21,6 +21,8 @@
 
 ## Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/csabatatrai-datascientist/)
+<a href="https://www.linkedin.com/in/csabatatrai-datascientist/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="250">
+</a>
 
 ![Data Analysis Graph](data-analysis-graph.gif)
