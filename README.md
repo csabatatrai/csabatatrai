@@ -1,5 +1,5 @@
 <a href="https://github.com/csabatatrai">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0A66C2&center=false&vCenter=false&width=500&lines=Hi,+I'm+Csaba+A.+T%C3%A1trai+👋" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E5FF&center=false&vCenter=false&width=500&lines=Hi,+I'm+Csaba+A.+T%C3%A1trai+👋;Data+Scientist+from+Hungary" alt="Typing SVG" />
 </a>
 
 ## Languages and Tools:
@@ -22,3 +22,5 @@
 ## Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/csabatatrai-datascientist/)
+
+![Profile Views](https://komarev.com/ghpvc/?username=csabatatrai&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
