@@ -23,10 +23,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/csabatatrai-datascientist/)
 
-## 🔥 My Coding Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=csabatatrai&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-<p align="center">
-  <img src="data-analysis-graph.gif" alt="Animated Data Graph" width="80%">
-</p>
+![Data Analysis Graph](data-analysis-graph.gif)
