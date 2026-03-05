@@ -23,6 +23,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/csabatatrai-datascientist/)
 
-## 🏆 GitHub Trophies
+## 🔥 My Coding Streak
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=csabatatrai&theme=radical&column=7&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://streak-stats.demolab.com?user=csabatatrai&theme=radical&hide_border=true)](https://git.io/streak-stats)
