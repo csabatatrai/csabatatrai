@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E5FF&center=false&vCenter=false&width=500&lines=Hi,+I'm+Csaba+A.+T%C3%A1trai+👋;Data+Scientist+from+Hungary" alt="Typing SVG" />
 </a>
 
-## Languages and Tools:
+## Preferred tech stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
