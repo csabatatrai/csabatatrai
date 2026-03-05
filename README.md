@@ -26,3 +26,7 @@
 ## 🔥 My Coding Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=csabatatrai&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+<p align="center">
+  <img src="data-analysis-graph.gif" alt="Animated Data Graph" width="80%">
+</p>
