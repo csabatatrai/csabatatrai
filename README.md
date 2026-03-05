@@ -23,4 +23,6 @@
   </a>
 </p>
 
-![Data Analysis Graph](data-analysis-graph.gif)
+<p align="center">
+  <img src="data-analysis-graph.gif" alt="Data Analysis Graph">
+</p>
