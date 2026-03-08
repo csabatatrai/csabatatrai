@@ -20,9 +20,9 @@
 ## Connect with me & Check out my work!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/csabatatrai-datascientist/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="100"></a>
+  <a href="https://www.linkedin.com/in/csabatatrai-datascientist/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="200"></a>
   &nbsp; &nbsp; &nbsp;
-  <a href="https://csabatatrai.hu/"><img src="https://img.shields.io/badge/-csabatatrai.hu-F23154?style=for-the-badge&logo=google-chrome&logoColor=white" height="100"></a>
+  <a href="https://csabatatrai.hu/"><img src="https://img.shields.io/badge/-csabatatrai.hu-F23154?style=for-the-badge&logo=google-chrome&logoColor=white" height="200"></a>
 </p>
 
 <p align="center">
