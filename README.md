@@ -21,11 +21,11 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/csabatatrai-datascientist/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="250">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   &nbsp; &nbsp; &nbsp;
   <a href="https://csabatatrai.hu/">
-    <img src="https://img.shields.io/badge/Portfolio-csabatatrai.hu-013243?style=for-the-badge&logo=google-chrome&logoColor=white" width="250">
+    <img src="https://img.shields.io/badge/-csabatatrai.hu-F23154?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
 </p>
 
