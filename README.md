@@ -17,11 +17,15 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## Connect with me via LinkedIn!
+## Connect with me & Check out my work!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/csabatatrai-datascientist/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="300">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="250">
+  </a>
+  &nbsp; &nbsp; &nbsp;
+  <a href="https://csabatatrai.hu/">
+    <img src="https://img.shields.io/badge/Portfolio-csabatatrai.hu-013243?style=for-the-badge&logo=google-chrome&logoColor=white" width="250">
   </a>
 </p>
 
