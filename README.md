@@ -26,7 +26,3 @@
   &nbsp; &nbsp; &nbsp;
   <a href="https://csabatatrai.hu/"><img src="https://img.shields.io/badge/-csabatatrai.hu-F23154?style=for-the-badge&logo=google-chrome&logoColor=white" height="200"></a>
 </p>
-
-<p align="center">
-  <img src="data-analysis-graph.gif" alt="Data Analysis Graph">
-</p>
