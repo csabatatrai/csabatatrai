@@ -4,6 +4,8 @@
 
 > 💡 **"Data is the new oil. It’s valuable, but if unrefined it cannot really be used. It has to be changed into gas, plastic, chemicals, etc. to create a valuable entity that drives profitable activity; so must data be broken down, analyzed for it to have value."** 📊
 
+[tatraicsababprof@gmail.com](mailto:tatraicsababprof@gmail.com)
+
 ## Preferred tech stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
