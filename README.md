@@ -21,6 +21,12 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+| 1. Oszlop (Balra zárt) | 2. Oszlop (Középre zárt) | 3. Oszlop (Jobbra zárt) | 4. Oszlop (Általános) |
+| :--- | :---: | ---: | --- |
+| Érték 1 | Érték 2 | Érték 3 | Érték 4 |
+| Érték 5 | Érték 6 | Érték 7 | Érték 8 |
+| Érték 9 | Érték 10 | Érték 11 | Érték 12 |
+
 <!-- Extra szponzorgomb későbbre!
 <div align="center">
   <br>
