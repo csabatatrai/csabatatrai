@@ -21,6 +21,14 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+<div align="center">
+  <br>
+  <a href="https://github.com/sponsors/csabatatrai">
+    <img src="https://img.shields.io/badge/Sponsor_Csaba_Tátrai-%23EA4AAA.svg?style=for-the-badge&logo=github&logoColor=white" alt="Sponsor" height="45">
+  </a>
+  <br>
+</div>
+
 <!--
 Néhány ötlet későbbre magamnak :)
 
