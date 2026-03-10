@@ -27,6 +27,12 @@
 | Érték 5 | Érték 6 | Érték 7 | Érték 8 |
 | Érték 9 | Érték 10 | Érték 11 | Érték 12 |
 
+| 🎯 Fókuszterület / Projekt | ⚙️ Állapot | ☕ Kávéigény | 💡 Szakmai konklúzió |
+| :--- | :---: | ---: | --- |
+| 🐈 Képfelismerő CNN (Kutya vs. Muffin) | 99.9% Pontosság* | 42 csésze | *Csak a train seten. A túltanulás (overfitting) valós veszély! |
+| 🧹 Nyers adathalmaz tisztítása (Pandas) | Folyamatban (örökké) | ∞ csésze | A "Garbage In, Garbage Out" nem vicc, hanem kőkemény természeti törvény. |
+| 🗄️ 500 soros SQL Query optimalizálása | Lefutott (0.3 sec) | 12 csésze | Egy jól elhelyezett `INDEX` néha többet ér, mint ezer sornyi Python kód. |
+
 <!-- Extra szponzorgomb későbbre!
 <div align="center">
   <br>
