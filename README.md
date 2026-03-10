@@ -22,12 +22,16 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 📊 Featured Data Products (Coming soon...)
+> [!NOTE]
+> 🚀 **I'm currently building my portfolio.** Check back later for some exciting data projects!
 
+<!--
 | Data Product / Project | Business Problem / Use Case | Tech Stack / Architecture | Data Source & Pipeline | Links (Repo & Live App) |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Project Name 1]** | [1-2 sentence description of the business value and the problem solved.] | [e.g., Python, dbt, Snowflake] | [e.g., REST API -> Airflow -> S3] | 🔗 [GitHub Repo](#)<br>🚀 [Live Demo](#) |
 | **[Project Name 2]** | [1-2 sentence description of the business value and the problem solved.] | [e.g., SQL, PowerBI, Azure] | [e.g., CSV -> Pandas -> Postgres] | 🔗 [GitHub Repo](#)<br>🚀 [Live Demo](#) |
 | **[Project Name 3]** | [1-2 sentence description of the business value and the problem solved.] | [e.g., Python, Scikit-learn] | [e.g., Kaggle -> Jupyter -> Pickle] | 🔗 [GitHub Repo](#)<br>🚀 [Live Demo](#) |
+-->
 
 <!-- táblázat template pl. hobbiprojekteknek
 | 1. Oszlop (Balra zárt) | 2. Oszlop (Középre zárt) | 3. Oszlop (Jobbra zárt) | 4. Oszlop (Általános) |
