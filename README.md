@@ -21,9 +21,9 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-# 📊 $\color{#FF0066}{Featured Data Products (Coming soon...)}}$
+# 📊 $\color{#FF0066}{\text{Featured Data Products (Coming soon...)}}$
 > [!NOTE]
-> 🚀 $\color{#FF0066}{I'm currently building my portfolio. Check back later for some exciting data projects!}}$
+> 🚀 $\color{#FF0066}{\text{I'm currently building my portfolio. Check back later for some exciting data projects!}}$
 
 <!--
 | Data Product / Project | Business Problem / Use Case | Tech Stack / Architecture | Data Source & Pipeline | Links (Repo & Live App) |
