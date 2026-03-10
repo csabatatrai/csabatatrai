@@ -8,7 +8,7 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/csabatatrai-datascientist/)
 📧 E-mail [tatraicsababprof@gmail.com](mailto:tatraicsababprof@gmail.com)
 
-🧑🏻‍💻## Preferred tech stack
+## Preferred tech stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -21,7 +21,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 📊 Featured Data Products
+## 📊 Featured Data Products (Coming soon...)
 
 | Data Product / Project | Business Problem / Use Case | Tech Stack / Architecture | Data Source & Pipeline | Links (Repo & Live App) |
 | :--- | :--- | :--- | :--- | :--- |
