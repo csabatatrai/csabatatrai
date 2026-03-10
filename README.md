@@ -29,6 +29,9 @@
   </a>
   <br>
 </div>
+
+Vagy: Ko-fi + stripe:
+https://ko-fi.com/csabaatatrai
 -->
 
 
