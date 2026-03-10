@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E5FF&center=false&vCenter=false&width=500&lines=Hi,+I'm+Csaba+A.+T%C3%A1trai+👋;Data+Scientist+from+Hungary" alt="Typing SVG" />
 </a>
 
-![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
