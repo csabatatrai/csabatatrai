@@ -4,9 +4,9 @@
 
 > 💡 **"Data is the new oil. It’s valuable, but if unrefined it cannot really be used. It has to be changed into gas, plastic, chemicals, etc. to create a valuable entity that drives profitable activity; so must data be broken down, analyzed for it to have value."** 📊
 
-🌐 Personal website [csabatatrai.hu](https://csabatatrai.hu)
+🌐 $\color{#FF0066}{\text{Personal website}}$ [csabatatrai.hu](https://csabatatrai.hu)
 🔗 [LinkedIn](https://www.linkedin.com/in/csabatatrai-datascientist/)
-📧 E-mail [tatraicsababprof@gmail.com](mailto:tatraicsababprof@gmail.com)
+📧 $\color{#FF0066}{\text{E-mail}}$ [tatraicsababprof@gmail.com](mailto:tatraicsababprof@gmail.com)
 
 # $\color{#FF0066}{\text{Preferred tech stack}}$
 
