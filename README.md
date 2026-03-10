@@ -1,5 +1,5 @@
 <a href="https://github.com/csabatatrai">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E5FF&center=false&vCenter=false&width=500&lines=Hi,+I'm+Csaba+A.+T%C3%A1trai+👋;Data+Scientist+from+Hungary" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=#f54242&center=false&vCenter=false&width=500&lines=Hi,+I'm+Csaba+A.+T%C3%A1trai+👋;Data+Scientist+from+Hungary" alt="Typing SVG" />
 </a>
 
 > 💡 **"Data is the new oil. It’s valuable, but if unrefined it cannot really be used. It has to be changed into gas, plastic, chemicals, etc. to create a valuable entity that drives profitable activity; so must data be broken down, analyzed for it to have value."** 📊
