@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=%23FF0066&center=false&vCenter=false&width=500&lines=Hi,+I'm+Csaba+A.+T%C3%A1trai+👋;Data+Scientist+from+Hungary" alt="Typing SVG" />
 </a>
 
-> 💡 **"Data is the new soil."** 📊
+> 💡 **Data is the new soil. So let's get our hands dirty, shall we?** 📊
 
 🌐 $\color{#FF0066}{\text{Personal website}}$ [csabatatrai.hu](https://csabatatrai.hu)
 🔗 [LinkedIn](https://www.linkedin.com/in/csabatatrai-datascientist/)
