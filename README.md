@@ -4,26 +4,25 @@
 
 > 💡 **Data is the new soil. So let's get our hands dirty and dig deep. 🪏 Shall we?** 📊🌱🌿
 
-🌐 $\color{#FF0066}{\text{Personal website}}$ [csabatatrai.hu](https://csabatatrai.hu)
+🌐 Personal website [csabatatrai.hu](https://csabatatrai.hu)
 🔗 [LinkedIn](https://www.linkedin.com/in/csabatatrai-datascientist/)
-📧 $\color{#FF0066}{\text{E-mail}}$ [tatraicsababprof@gmail.com](mailto:tatraicsababprof@gmail.com)
+📧 E-mail [tatraicsababprof@gmail.com](mailto:tatraicsababprof@gmail.com)
 
-# $\color{#FF0066}{\text{Preferred tech stack}}$
+# Preferred tech stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-# 📊 $\color{#FF0066}{\text{Featured Data Products (Coming soon...)}}$
+# 📊 Featured Data Products (Coming soon...)
+
 > [!NOTE]
-> 🚀 $\color{#FF0066}{\text{I'm currently building my portfolio. Check back later for some exciting data projects!}}$
+> 🚀 I'm currently building my portfolio. Check back later for some exciting data projects!
 
 <!--
 | Data Product / Project | Business Problem / Use Case | Tech Stack / Architecture | Data Source & Pipeline | Links (Repo & Live App) |
@@ -49,24 +48,20 @@
   </a>
   <br>
 </div>
-
 Vagy: Ko-fi + stripe:
 https://ko-fi.com/csabaatatrai
 -->
 
 <!--
 Néhány ötlet későbbre magamnak :)
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
 ![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
-
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 -->
