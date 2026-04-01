@@ -21,8 +21,14 @@
 
 # 📊 Featured Data Products (Coming soon...)
 
+```Python
+print("I'm currently building my portfolio. Check back later for some exciting data projects!")
+```
+
+<!--
 > [!NOTE]
 > 🚀 I'm currently building my portfolio. Check back later for some exciting data projects!
+-->
 
 <!--
 | Data Product / Project | Business Problem / Use Case | Tech Stack / Architecture | Data Source & Pipeline | Links (Repo & Live App) |
