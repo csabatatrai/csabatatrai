@@ -21,6 +21,10 @@
 
 # 📊 Featured Data Products (Coming soon...)
 
+<a href="https://csabatatrai.hu/">
+  <img src="https://i.guim.co.uk/img/media/327aa3f0c3b8e40ab03b4ae80319064e401c6fbc/377_133_3542_2834/master/3542.jpg?width=1900&dpr=2&s=none&crop=none" alt="Alternatív szöveg" width="100">
+</a>
+
 ```Python
 print("I'm currently building my portfolio. Check back later for some exciting data projects!")
 ```
