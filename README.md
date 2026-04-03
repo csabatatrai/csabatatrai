@@ -25,6 +25,30 @@
   <img src="https://i.guim.co.uk/img/media/327aa3f0c3b8e40ab03b4ae80319064e401c6fbc/377_133_3542_2834/master/3542.jpg?width=1900&dpr=2&s=none&crop=none" alt="Alternatív szöveg" width="100">
 </a>
 
+```mermaid
+flowchart TD
+    CSV[("📂 online_retail_II.csv\nKaggle / UCI · ~1M sor")]
+    SQL["🔍 SQL EDA\nSQLite / DB Browser"]
+    CFG(["⚙️ config.py\nÚtvonalak · paraméterek"])
+
+    SQL -.->|feltárás| CSV
+    CFG -.-> PREP
+    CFG -.-> SEG
+    CFG -.-> CHURN
+    CSV --> PREP
+
+    PREP["📋 01 Adatelőkészítés\nParquet konverzió · tisztítás · outlier szűrés"]
+    SEG["🎯 02 Ügyfélszegmentáció\nRFM Feature Engineering · K-means K=4"]
+    CHURN["🤖 03 Churn Prediction\nXGBoost · SHAP · A/B pipeline tesztelés"]
+    DASH["📊 Streamlit Dashboard"]
+
+    PREP --> SEG --> CHURN --> DASH
+
+    PREP -.->|kimenet| P1[("💾 Parquet fájlok\nraw · cleaned · rfm_ready")]
+    SEG  -.->|kimenet| M1[("🧩 Modellek × 2\nscaler · kmeans_rfm .joblib")]
+    CHURN-.->|kimenet| P2[("📈 Előrejelzések\nxgboost.joblib · churn_pred.parquet")]
+```
+
 ```Python
 print("I'm currently building my portfolio. Check back later for some exciting data projects!")
 ```
