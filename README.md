@@ -17,7 +17,7 @@
 
 ---
 
-# Contact me
+## Contact me
   <!-- Kapcsolati gombok -->
 <table align="center" width="100%">
 <tr>
@@ -29,85 +29,35 @@
 </tr>
 </table>
 
-# Preferred tech stack
+## 🛠️ Tech Stack
 
 <div align="center">
-  <a href="https://csabatatrai.hu/" title="Visit my personal website!"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
-  <a href="https://csabatatrai.hu/" title="Visit my personal website!"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" /></a>
-  <a href="https://csabatatrai.hu/" title="Visit my personal website!"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" /></a>
-  <br><br>
 
-  <a href="https://csabatatrai.hu/" title="Visit my personal website!"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" /></a>
-  <a href="https://csabatatrai.hu/" title="Visit my personal website!"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /></a>
-  <a href="https://csabatatrai.hu/" title="Visit my personal website!"><img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" alt="DuckDB" /></a>
-  <a href="https://csabatatrai.hu/" title="Visit my personal website!"><img src="https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white" alt="Polars" /></a>
-  <br><br>
+**Languages**
 
-  <a href="https://csabatatrai.hu/" title="Visit my personal website!"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" /></a>
-  <a href="https://csabatatrai.hu/" title="Visit my personal website!"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
-  <a href="https://csabatatrai.hu/" title="Visit my personal website!"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://csabatatrai.hu/)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://csabatatrai.hu/)
+[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://csabatatrai.hu/)
+
+**Data & Processing**
+
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://csabatatrai.hu/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://csabatatrai.hu/)
+[![Polars](https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white)](https://csabatatrai.hu/)
+[![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)](https://csabatatrai.hu/)
+
+**Tooling & Infrastructure**
+
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://csabatatrai.hu/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://csabatatrai.hu/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://csabatatrai.hu/)
+
 </div>
-
-# 📊 Featured Data Products (Coming soon...)
-
-<!--
-Cica!
-
-<a href="https://csabatatrai.hu/">
-  <img src="https://i.guim.co.uk/img/media/327aa3f0c3b8e40ab03b4ae80319064e401c6fbc/377_133_3542_2834/master/3542.jpg?width=1900&dpr=2&s=none&crop=none" alt="Alternatív szöveg" width="100">
-</a>
--->
-
 
 ```Python
 print("I'm currently building my portfolio. Check back later for some exciting data projects!")
 ```
-<!--
-> [!NOTE]
-> 🚀 I'm currently building my portfolio. Check back later for some exciting data projects!
--->
 
-<!--
-| Data Product / Project | Business Problem / Use Case | Tech Stack / Architecture | Data Source & Pipeline | Links (Repo & Live App) |
-| :--- | :--- | :--- | :--- | :--- |
-| **[Project Name 1]** | [1-2 sentence description of the business value and the problem solved.] | [e.g., Python, dbt, Snowflake] | [e.g., REST API -> Airflow -> S3] | 🔗 [GitHub Repo](#)<br>🚀 [Live Demo](#) |
-| **[Project Name 2]** | [1-2 sentence description of the business value and the problem solved.] | [e.g., SQL, PowerBI, Azure] | [e.g., CSV -> Pandas -> Postgres] | 🔗 [GitHub Repo](#)<br>🚀 [Live Demo](#) |
-| **[Project Name 3]** | [1-2 sentence description of the business value and the problem solved.] | [e.g., Python, Scikit-learn] | [e.g., Kaggle -> Jupyter -> Pickle] | 🔗 [GitHub Repo](#)<br>🚀 [Live Demo](#) |
--->
-
-<!-- táblázat template pl. hobbiprojekteknek
-| 1. Oszlop (Balra zárt) | 2. Oszlop (Középre zárt) | 3. Oszlop (Jobbra zárt) | 4. Oszlop (Általános) |
-| :--- | :---: | ---: | --- |
-| Érték 1 | Érték 2 | Érték 3 | Érték 4 |
-| Érték 5 | Érték 6 | Érték 7 | Érték 8 |
-| Érték 9 | Érték 10 | Érték 11 | Érték 12 |
--->
-
-<!-- Extra szponzorgomb későbbre!
-<div align="center">
-  <br>
-  <a href="https://github.com/sponsors/csabatatrai">
-    <img src="https://img.shields.io/badge/Sponsor_Csaba_Tátrai-%23EA4AAA.svg?style=for-the-badge&logo=github&logoColor=white" alt="Sponsor" height="45">
-  </a>
-  <br>
-</div>
-Vagy: Ko-fi + stripe:
-https://ko-fi.com/csabaatatrai
--->
-
-<!--
-Néhány ötlet későbbre magamnak :)
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
--->
 ---
 
 <div align="center">
