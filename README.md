@@ -101,14 +101,20 @@ Néhány ötlet későbbre magamnak :)
   <h3>🌟 Explore My Starred Repositories</h3>
   <p>Feel free to browse my starred collection! I regularly save and curate awesome open-source projects across various domains.</p>
   
-  <!-- Témakörök vizuális megjelenítése -->
-  <img src="https://img.shields.io/badge/🤖_LLM_%26_AI-1E1E1E?style=flat-square&logoColor=white" alt="LLM & AI" />
-  <img src="https://img.shields.io/badge/📚_RAG-1E1E1E?style=flat-square&logoColor=white" alt="RAG" />
-  <img src="https://img.shields.io/badge/📊_Data_Science-1E1E1E?style=flat-square&logoColor=white" alt="Data Science" />
-  <img src="https://img.shields.io/badge/♟️_Chess-1E1E1E?style=flat-square&logoColor=white" alt="Chess" />
+  <a href="https://github.com/csabatatrai?tab=stars" title="Check out my favorite repos!">
+    <img src="https://img.shields.io/badge/🤖_LLM_%26_AI-1E1E1E?style=flat-square&logoColor=white" alt="LLM & AI" />
+  </a>
+  <a href="https://github.com/csabatatrai?tab=stars" title="Check out my favorite repos!">
+    <img src="https://img.shields.io/badge/📚_RAG-1E1E1E?style=flat-square&logoColor=white" alt="RAG" />
+  </a>
+  <a href="https://github.com/csabatatrai?tab=stars" title="Check out my favorite repos!">
+    <img src="https://img.shields.io/badge/📊_Data_Science-1E1E1E?style=flat-square&logoColor=white" alt="Data Science" />
+  </a>
+  <a href="https://github.com/csabatatrai?tab=stars" title="Check out my favorite repos!">
+    <img src="https://img.shields.io/badge/♟️_Chess-1E1E1E?style=flat-square&logoColor=white" alt="Chess" />
+  </a>
   <br><br>
 
-  <!-- Kattintható "Gomb" a csillagokhoz -->
   <a href="https://github.com/csabatatrai?tab=stars" title="Check out my favorite repos!">
     <img src="https://img.shields.io/badge/⭐_Browse_My_Stars-FFD700?style=for-the-badge&logoColor=black" alt="Browse Stars" />
   </a>
