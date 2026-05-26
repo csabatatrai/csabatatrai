@@ -54,9 +54,19 @@
 
 </div>
 
-```Python
-print("I'm currently building my portfolio. Check back later for some exciting data projects!")
-```
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=csabatatrai&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="160" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=csabatatrai&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="160" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=csabatatrai&theme=github-compact&hide_border=true&area=true" alt="Activity Graph" width="95%" />
+</div>
 
 ---
 
