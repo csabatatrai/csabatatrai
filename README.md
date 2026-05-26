@@ -1,16 +1,3 @@
-<td align="center" width="40%" style="border: none; padding: 20px;">
-      <a href="https://csabatatrai.hu">
-        <img src="https://img.shields.io/badge/Website-csabatatrai.hu-2C3E50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-      </a><br><br>
-      <a href="https://www.linkedin.com/in/csabatatrai-datascientist/">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-      </a><br><br>
-      <a href="mailto:tatraicsababprof@gmail.com">
-        <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-      </a>
-    </td>
-
-
 <div align="center">
   <a href="https://csabatatrai.hu/" title="Visit my personal website!">
     <img src="Csabi.svg" alt="Csabi animáció" width="900" />
@@ -29,15 +16,7 @@
   <br>
 
   <!-- Kapcsolati gombok -->
-  <a href="https://csabatatrai.hu" title="Látogass el a weboldalamra!">
-    <img src="https://img.shields.io/badge/Website-csabatatrai.hu-2C3E50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://www.linkedin.com/in/csabatatrai-datascientist/" title="Kössük össze a LinkedIn-en!">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:tatraicsababprof@gmail.com" title="Írj nekem e-mailt!">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+
 
 </div>
 
