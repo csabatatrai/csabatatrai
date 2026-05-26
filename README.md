@@ -95,3 +95,23 @@ Néhány ötlet későbbre magamnak :)
 ![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 -->
+---
+
+<div align="center">
+  <h3>🌟 Explore My Starred Repositories</h3>
+  <p>Feel free to browse my starred collection! I regularly save and curate awesome open-source projects across various domains.</p>
+  
+  <!-- Témakörök vizuális megjelenítése -->
+  <img src="https://img.shields.io/badge/🤖_LLM_%26_AI-1E1E1E?style=flat-square&logoColor=white" alt="LLM & AI" />
+  <img src="https://img.shields.io/badge/📚_RAG-1E1E1E?style=flat-square&logoColor=white" alt="RAG" />
+  <img src="https://img.shields.io/badge/📊_Data_Science-1E1E1E?style=flat-square&logoColor=white" alt="Data Science" />
+  <img src="https://img.shields.io/badge/♟️_Chess-1E1E1E?style=flat-square&logoColor=white" alt="Chess" />
+  <br><br>
+
+  <!-- Kattintható "Gomb" a csillagokhoz -->
+  <a href="https://github.com/csabatatrai?tab=stars" title="Check out my favorite repos!">
+    <img src="https://img.shields.io/badge/⭐_Browse_My_Stars-FFD700?style=for-the-badge&logoColor=black" alt="Browse Stars" />
+  </a>
+</div>
+
+---
