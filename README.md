@@ -17,7 +17,7 @@
 
 ---
 
-## Contact me
+## 📧 Contact me
   <!-- Kapcsolati gombok -->
 <table align="center" width="100%">
 <tr>
