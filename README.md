@@ -57,12 +57,6 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=csabatatrai&theme=github-compact&hide_border=true&area=true&days=20" alt="Activity Graph" width="95%" />
-</div>
-
----
-
-<div align="center">
   <h3>🌟 Explore My Starred Repositories</h3>
   <p>Feel free to browse my starred collection! I regularly save and curate awesome open-source projects across various domains.</p>
   
