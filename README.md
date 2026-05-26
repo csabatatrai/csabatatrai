@@ -10,11 +10,25 @@
 </a>
 -->
 
-> 💡 **Data is the new soil. So let's get our hands dirty and dig deep. 🪏 Shall we?** 📊🌱🌿
+<div align="center">
 
-🌐 Personal website [csabatatrai.hu](https://csabatatrai.hu)
-🔗 [LinkedIn](https://www.linkedin.com/in/csabatatrai-datascientist/)
-📧 E-mail [tatraicsababprof@gmail.com](mailto:tatraicsababprof@gmail.com)
+  <h3>💡 <i>"Data is the new soil. So let's get our hands dirty and dig deep. 🪏 Shall we?"</i> 📊🌱🌿</h3>
+  <br>
+
+  <!-- Kapcsolati gombok -->
+  <a href="https://csabatatrai.hu" title="Látogass el a weboldalamra!">
+    <img src="https://img.shields.io/badge/Website-csabatatrai.hu-2C3E50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://www.linkedin.com/in/csabatatrai-datascientist/" title="Kössük össze a LinkedIn-en!">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:tatraicsababprof@gmail.com" title="Írj nekem e-mailt!">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+</div>
+
+---
 
 # Preferred tech stack
 
