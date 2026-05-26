@@ -14,7 +14,10 @@
 
   <h3>💡 <i>"Data is the new soil. So let's get our hands dirty and dig deep. 🪏 Shall we?"</i> 📊🌱🌿</h3>
   <br>
+
 ---
+
+# Contact me
   <!-- Kapcsolati gombok -->
 <table align="center" width="100%">
 <tr>
@@ -25,8 +28,6 @@
 </td>
 </tr>
 </table>
-
----
 
 # Preferred tech stack
 
