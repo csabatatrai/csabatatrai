@@ -1,10 +1,12 @@
 <div align="center">
-  <img src="Csabi.svg" alt="Csabi animáció" width="400" />
+  <img src="Csabi.svg" alt="Csabi animáció" width="900" />
 </div>
 
+<!--
 <a href="https://github.com/csabatatrai">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=%23FF0066&center=false&vCenter=false&width=500&lines=Hi,+I'm+Csaba+A.+T%C3%A1trai+👋;Data+Scientist+from+Hungary" alt="Typing SVG" />
 </a>
+-->
 
 > 💡 **Data is the new soil. So let's get our hands dirty and dig deep. 🪏 Shall we?** 📊🌱🌿
 
