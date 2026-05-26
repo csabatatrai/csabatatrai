@@ -18,14 +18,6 @@
   <!-- Kapcsolati gombok -->
 
 
-</div>
-
----
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" style="padding: 30px;">
-      
 <table align="center" width="100%">
 <tr>
 <td align="center" style="padding: 30px;">
@@ -34,10 +26,6 @@
 <a href="mailto:tatraicsababprof@gmail.com"><img src="[https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)" alt="Email" /></a>
 </td>
 </tr>
-</table>
-      
-    </td>
-  </tr>
 </table>
 
 ---
