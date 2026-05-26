@@ -1,12 +1,4 @@
-<table align="center" width="100%" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <!-- Bal oldal: Idézet -->
-    <td align="center" width="60%" style="border: none; padding: 20px;">
-      <h2>💡</h2>
-      <h3><i>"Data is the new soil.<br>So let's get our hands dirty and dig deep.<br>🪏 Shall we?"</i> 📊🌱🌿</h3>
-    </td>
-    <!-- Jobb oldal: Kapcsolati gombok -->
-    <td align="center" width="40%" style="border: none; padding: 20px;">
+<td align="center" width="40%" style="border: none; padding: 20px;">
       <a href="https://csabatatrai.hu">
         <img src="https://img.shields.io/badge/Website-csabatatrai.hu-2C3E50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
       </a><br><br>
@@ -17,8 +9,6 @@
         <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
       </a>
     </td>
-  </tr>
-</table>
 
 
 <div align="center">
