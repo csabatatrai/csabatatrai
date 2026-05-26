@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="Csabi.svg" alt="Csabi animáció" width="900" />
+  <a href="https://csabatatrai.hu/" title="Visit my personal website!">
+    <img src="Csabi.svg" alt="Csabi animáció" width="900" />
+  </a>
 </div>
 
 <!--
