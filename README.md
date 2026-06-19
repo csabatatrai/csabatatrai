@@ -81,3 +81,24 @@
 
 ---
 
+## 📱 Mit tudok fejleszteni mobilról?
+
+<div align="center">
+
+A **Claude Code** webes felületén (`claude.ai/code`) mobiltelefonról is teljes fejlesztési munkát végezhetek — a kód egy távoli felhős konténerben fut, én csak a böngészőn keresztül irányítom.
+
+| Kategória | Mit lehet csinálni? |
+|---|---|
+| **Kód írás & szerkesztés** | Python szkriptek, SQL lekérdezések, konfigurációs fájlok |
+| **Adattudomány** | ML modellek, adat-pipeline-ok, EDA szkriptek |
+| **Shell parancsok** | Fájlkezelés, csomagtelepítés, tesztek futtatása |
+| **Git műveletek** | Commit, push, branch kezelés GitHub-ra |
+| **API fejlesztés** | REST végpontok, Claude API integráció |
+| **Dokumentáció** | README frissítés, technikai leírások |
+
+> 🚀 **Ez a szekció is mobilról készült** — Claude Code segítségével, a `claude/mobile-dev-capabilities-fnhgd6` branchen.
+
+</div>
+
+---
+
