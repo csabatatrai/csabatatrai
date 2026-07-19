@@ -14,8 +14,6 @@
 
   <br>
 
----
-
 ## 📧 Contact me
   <!-- Kapcsolati gombok -->
 <table align="center" width="100%">
