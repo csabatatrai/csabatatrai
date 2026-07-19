@@ -31,8 +31,6 @@
 
 ## 🛠️ My job
 
-<div align="center">
-
 As an intern alongside my university studies, I focus on the secure integration of cutting-edge AI technologies to automate and optimize enterprise workflows. My current work involves:
 - Orchestrating local (on-prem) and cloud-based LLMs
 - Using Mixture of Agents (MoA) architectures
@@ -40,8 +38,6 @@ As an intern alongside my university studies, I focus on the secure integration 
 - Evaluating and implementing agentic frameworks and their tool-calling capabilities
 - Developing custom adapters and middleware gateways for the Model Context Protocol (MCP) to integrate open-source enterprise software
 - Utilizing the Red Hat OpenShift AI platform for development and deployment
-
-</div>
 
 ---
 
