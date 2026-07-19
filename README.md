@@ -10,6 +10,9 @@
 </a>
 -->
 
+Register Digital Ocean for VPS (Droplets) and more!
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=813c09db22b0&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+
 <div align="center">
 
   <br>
